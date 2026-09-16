@@ -14,6 +14,8 @@ venv/
 .venv/
 env/
 ENV/
+statistical_analysis/
+
 
 # === IDEs and System Files ===
 .vscode/
